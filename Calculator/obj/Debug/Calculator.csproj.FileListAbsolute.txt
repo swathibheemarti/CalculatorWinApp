@@ -1,0 +1,9 @@
+E:\Projects\Swathi\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Projects\Swathi\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Projects\Swathi\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.Calc.resources
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Projects\Swathi\Calculator\Calculator\obj\Debug\Calculator.pdb
